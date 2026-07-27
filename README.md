@@ -2,7 +2,7 @@
 
 **Laboratory for Rare Disease and Observation Studies**
 
-*A collaboration between LABRADOR, the [Health Research Data Portal (FDPG)](https://fdpg.de](https://forschen-fuer-gesundheit.de), and the [PrivateAIM/FLAME](https://privateaim.de) consortium.*
+*A collaboration between LABRADOR, the [Health Research Data Portal (FDPG)](https://forschen-fuer-gesundheit.de), and the [PrivateAIM/FLAME](https://privateaim.de) consortium.*
 
 ---
 
