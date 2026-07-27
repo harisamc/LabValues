@@ -2,7 +2,7 @@
 
 **Laboratory for Rare Disease and Observation Studies**
 
-*A collaboration between LABRADOR, the [Health Research Data Portal (FDPG)](https://fdpg.de), and the [PrivateAIM/FLAME](https://privateaim.de) consortium.*
+*A collaboration between LABRADOR, the [Health Research Data Portal (FDPG)]([https://fdpg.de](https://forschen-fuer-gesundheit.de/)), and the [PrivateAIM/FLAME](https://privateaim.de) consortium.*
 
 ---
 
@@ -153,7 +153,7 @@ For Lane 2 (FLAME), the PrivateAIM FLAME SDK is required — see the [PrivateAIM
 
 ## Related
 
-- [FDPG — Health Research Data Portal](https://fdpg.de)
+- [FDPG — Health Research Data Portal]([https://fdpg.de](https://forschen-fuer-gesundheit.de/))
 - [PrivateAIM / FLAME Platform](https://privateaim.de)
 - [Medizininformatik-Initiative (MII)](https://www.medizininformatik-initiative.de)
 - [NAMSE — National Action Alliance for People with Rare Diseases](https://www.namse.de)
